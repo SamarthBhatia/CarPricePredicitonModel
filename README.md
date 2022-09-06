@@ -1,4 +1,4 @@
-# CarPricePredicitonModel
+# CarPricePredictionModel
 The data required for the project was imported from Kaggle. 
 The data had some issues-
 1. Selling Price had Lakh*.
